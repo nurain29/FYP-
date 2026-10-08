@@ -3,7 +3,7 @@
 automatized classification by categories for each complaint and priority. 
 
 ## Problem statement
-Complaints are handled manual from classification and prioritization which can lead to inconsistent decision from difference staff. Staff may have difficulty identifying which complaint should be handled first. 
+Complaints are handled manual from classification and prioritization which can lead to inconsistent decision from difference staff. Staff may have difficulty identifying which complaint should be handled first. There is a need to classify complaints into appropriate categories and determine the priority level based on customer impact and urgency. 
 
 ## Documents
 - [Problem statement](docs/problem-statement.md)
