@@ -9,9 +9,30 @@ Complaints are handled manual from classification and prioritization which can l
 - [Problem statement](docs/problem-statement.md)
 - [Requirements](docs/requirements.md)
 - [User stories](docs/user-stories.md)
+## Project structure
+```
+.
+|-- README.md
+|-- LICENSE
+|-- .gitignore
+|-- docs/
+|   |-- problem-statement.md
+|   |-- requirements.md
+|   |-- user-stories.md
+|   |-- sprint-log.md
+|-- src/
+    |-- README.md      (code will go here)
+```
+
+## Roadmap
+- [x] Problem statement written
+- [ ] Requirements numbered and linked to user stories
+- [ ] User stories have acceptance criteria
+- [ ] Specialized technology chosen and explained
+- [ ] First prototype (later in the semester)
 
 ## Status
-Planning (CSC649, Week 2)
+Planning (CSC649, Week 3)
 
 ## Author
 Nurain Batrisyia 
