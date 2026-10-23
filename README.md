@@ -1,6 +1,6 @@
-# Customer Complaint Classification using NLP and fuzzy Priority Decision Support System
+# Web-based Customer Complaint Classification using NLP and fuzzy Priority Decision Support System
 
-automatized classification by categories for each complaint and priority. 
+A system that automatized classification using NLP by categories for each complaint and Decide priority level using Fuzzy Logic. 
 
 ## Problem statement
 Complaints are handled manual from classification and prioritization which can lead to inconsistent decision from difference staff. Staff may have difficulty identifying which complaint should be handled first. There is a need to classify complaints into appropriate categories and determine the priority level based on customer impact and urgency. 
@@ -9,29 +9,9 @@ Complaints are handled manual from classification and prioritization which can l
 - [Problem statement](docs/problem-statement.md)
 - [Requirements](docs/requirements.md)
 - [User stories](docs/user-stories.md)
-## Project structure
-```
-.
-|-- README.md
-|-- LICENSE
-|-- .gitignore
-|-- docs/
-|   |-- problem-statement.md
-|   |-- requirements.md
-|   |-- user-stories.md
-|   |-- sprint-log.md
-|-- src/
-    |-- README.md      (code will go here)
-```
+- [Specialized technology](docs/technology.md)
 
-## Roadmap
-- [x] Problem statement written
-- [ ] Requirements numbered and linked to user stories
-- [ ] User stories have acceptance criteria
-- [ ] Specialized technology chosen and explained
-- [ ] First prototype (later in the semester)
-
-## Status
+## Project Status
 Completed 
 
 ## Author
