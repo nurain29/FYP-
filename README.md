@@ -32,8 +32,8 @@ Complaints are handled manual from classification and prioritization which can l
 - [ ] First prototype (later in the semester)
 
 ## Status
-Planning (CSC649, Week 3)
+Completed 
 
 ## Author
-Nurain Batrisyia 
+Nurain Batrisyia Azman
 
