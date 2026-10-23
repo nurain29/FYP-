@@ -20,23 +20,22 @@ Staff review the submitted complaints, and check each of complaints categories m
 3. System manage complaint categories, user access and system setting.
 
 ## Stakeholders
-1. Telecommunication Company Management: Monitor complaint categories and identify common customer service issues.
-2. IT Support Team: Maintain the system and ensure that it operates correctly.
-3. Customers: Benefit from a more organized complaint-handling process.
+1. Customer Complaint company Management: Track complaint categories and identify common complaint for customer service issues.
+2. IT Support Team: Make sure the system can operates correctly and consistent.
+3. Customers: Benefit from organized complaint-handling process from the company.
 
 # Project Scope
 
 ## In Scope
-1. Checking customer complaint text submitted through a website form.
-2. Use Natural Language Processing (NLP) to process the complaint text.
-3. Classify complaints into categories like billing, internet connectivity, service interruption and customer service.
-4. Provide a suggested priority level, such as low, medium or high, to support staff in reviewing complaints.
-5. Allow customer service staff to view and review classified complaints.
-6. Store complaint details and classification results for authorized users.
+1. Customer complaint submitted through website from in a human-text.
+2. Natural Language Processing are using to process the complaint text.
+3. Customer Complaints are classify into category such as billing, technical or customer service.
+4. Allow staff management to view and do the decisions of classified complaints.
+5. All complaints being handled is stored for authorized users.
 
 ## Out of Scope
-1. Automatically resolving complaints without staff involvement.
-2. Automatically issuing refunds or changing customer subscriptions.
-3. Replacing customer service staff or the company's existing complaint management process.
+1. Resolve the complaint without staff permissions.
+2. The system not involved in issuing refunds or changing customer subscriptions.
+3. Replacing all staff of customer complaint management tasks.
 4. Integrating with every telecommunication company's internal database.
 5. Guaranteeing that every complaint is classified correctly or that every urgent complaint is identified.
