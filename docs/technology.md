@@ -107,15 +107,21 @@ Manually reading and categorising a number of customer complaints can take time 
 ### 4.1 Benefits
 
 **Automated Categorisation:** NLP can automatically classify submitted complaints into predefined categories. This reduces the need for staff to read and sort every complaint manually, helping to make the complaint management process more efficient.
+
 **Consistency:** The classification model applies patterns learned from its training data when predicting complaint categories. This can help reduce differences that may occur when different staff members manually categorise similar complaints. However, the model may still make incorrect predictions.
+
 **Scalability:** An NLP classification system can process many complaint messages without requiring staff to categorise each message individually. This makes the approach useful when the number of customer complaints increases, although processing speed depends on the system and available resources.
+
 **Better Complaint Organisation:** By grouping complaints into categories, the system can make it easier for customer service staff to identify common issues. For example, staff can review complaints classified as network problems to understand the types of connectivity issues reported by customers.
 
 ### 4.2 Limitations and Risks
 
 **Ambiguity and Slang:** Customer complaints might have slang, spelling errors, confusing sentences or than one issue in one message. These things can make it hard for the model to figure out the category. For example a complaint that talks about a bill and also an internet connection problem might not fit clearly into just one category.
+
 **Dependence on Training Data:** The way well the classification model works depends on how good and varied the labelled training data's. If the data has few examples or doesn't match the way real customers actually speak the model might give wrong answers. So the data needs to have examples, for every type of complaint and needs to be checked with separate test data.
+
 **Privacy Concerns:** Customer complaints may contain personal information, such as names, account details, or contact information. If this information is included in the dataset, it must be handled carefully. Unnecessary personal information should be removed or anonymised where appropriate, and access to complaint data should be restricted to authorised users.
+
 **Classification Errors:** NLP does not guarantee that every complaint will be assigned to the correct category. Incorrect predictions may occur when a complaint contains unfamiliar words or differs from the examples used during training. Therefore, the model should be evaluated using suitable performance measures, such as accuracy, precision, recall, and F1-score. Staff should also be able to review the predicted category when necessary.
 
 ### 4.3 Alternative Approach
