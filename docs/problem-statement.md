@@ -10,7 +10,7 @@ Staff need to categorize it by themself using manual techniques by staff to anot
 This process may takes more time than automatically classify each complaints by categories also may be harder to identify highest priority complaints.
 
 ## Problem statement (3 to 5 sentences)
-Staff review the submitted complaints, and check each of complaints categories manually such as billing problems, technical and poor customer service. Staff need to categorize it by themself using manual techniques by staff to another staff. Which is inefficient for customer complaints management.This process may takes more time than automatically classify each complaints by categories also may be harder to identify highest priority complaints.
+Staff review the submitted complaints, and check each of complaints categories manually such as billing problems, technical and poor customer service. Staff need to categorize it by themself using manual techniques by staff to another staff. Which is inefficient for customer complaints management (Vairetti et al., 2024). This process may takes more time than automatically classify each complaints by categories also may be harder to identify highest priority complaints (Vairetti et al., 2024).
 
 # User and Stakeholders
 
